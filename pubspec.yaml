@@ -1,7 +1,7 @@
 name: flutter_device_name
 description: A Flutter for retrieving the user's defined device name
 version: 0.0.1
-homepage:
+homepage: https://github.com/felipheallef/flutter_device_name
 
 environment:
   sdk: '>=2.19.2 <3.0.0'
