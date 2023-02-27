@@ -1,0 +1,3 @@
+## 0.0.1
+
+* A Flutter for retrieving the user's defined device name. Currently works only on Android. iOS support is planned.
